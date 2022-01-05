@@ -1,0 +1,3 @@
+aws-live-master>aws s3 cp "readme" s3://avila.org/
+// Make sure to CD into wear the file is
+// cp <<filename>> s3 <<bucketname>>
