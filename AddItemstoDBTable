@@ -1,0 +1,3 @@
+aws dynamodb put-item --table-name kensresumecounter --item "{\"Site\":{\"N\":\"0\"},\"Visitors\":{\"N\":\"0\"}}"
+
+//this is more CMD/POWERSHELL
